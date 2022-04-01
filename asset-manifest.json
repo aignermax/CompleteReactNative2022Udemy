@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CompleteReactNative2022Udemy/static/css/main.2a85f506.css",
+    "main.js": "/CompleteReactNative2022Udemy/static/js/main.616c661c.js",
+    "static/js/787.32032a02.chunk.js": "/CompleteReactNative2022Udemy/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/CompleteReactNative2022Udemy/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/CompleteReactNative2022Udemy/index.html",
+    "main.2a85f506.css.map": "/CompleteReactNative2022Udemy/static/css/main.2a85f506.css.map",
+    "main.616c661c.js.map": "/CompleteReactNative2022Udemy/static/js/main.616c661c.js.map",
+    "787.32032a02.chunk.js.map": "/CompleteReactNative2022Udemy/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a85f506.css",
+    "static/js/main.616c661c.js"
+  ]
+}
